@@ -1,0 +1,14 @@
+{
+  "name": "Rishi Jain",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Just a newbie Web Developer who's too interested in communities.",
+  "avatar": "https://github.com/jainrishi2001.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Jain_1Rishi",
+      "icon": "FaTwitter"
+    }
+  ]
+}
